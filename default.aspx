@@ -52,7 +52,7 @@
                 <div class="col-md-1 centered">
                 </div>
                 <div class="col-md-3">
-                    <h5>S. Barıs Kısır - 100301004</h5>
+                    <h5></h5>
                 </div>
                 <div class="col-md-1 centered">
                 </div>
